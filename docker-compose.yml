@@ -1,0 +1,3 @@
+fluentd-example:
+  images: fluent/fluentd:v0.12-debian
+  
